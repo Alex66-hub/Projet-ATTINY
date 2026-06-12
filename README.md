@@ -120,5 +120,3 @@ Le spawn suit une probabilité par boucle : `random < (5 + niveau*3)` (%).
 - Anti-rebond plus robuste (filtrage temporel)
 - Optimiser le rendu pour limiter l’effacement/écriture OLED
 
-## Licence
-Projet académique ECE — à compléter (MIT / GPL / privé) selon votre consigne.
